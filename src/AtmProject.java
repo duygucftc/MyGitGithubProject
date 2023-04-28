@@ -10,6 +10,9 @@ public class AtmProject {
         System.out.println("Java ogrenmek cok kolay:)");
         //versiyon4
 
+        System.out.println("Duygu branchi kodlarini yazdi.");
+        //duygu1
+
 
 
 
