@@ -12,6 +12,8 @@ public class AtmProject {
 
         System.out.println("Duygu branchi kodlarini yazdi.");
         //duygu1
+        System.out.println("");
+        //duygu3
 
 
 
