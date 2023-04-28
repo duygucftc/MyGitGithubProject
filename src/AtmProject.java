@@ -14,6 +14,11 @@ public class AtmProject {
         //duygu1
         System.out.println("");
         //duygu3
+        System.out.println();
+        if(true){
+            System.out.println();
+
+        }
 
 
 
