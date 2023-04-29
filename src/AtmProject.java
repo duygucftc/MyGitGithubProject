@@ -19,6 +19,7 @@ public class AtmProject {
             System.out.println();
 
         }
+        //remote repomda degisiklik yaptim.
 
 
 
